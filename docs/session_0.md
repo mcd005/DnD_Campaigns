@@ -14,7 +14,7 @@ One of the Masked Lord of Waterdeep wants the Open Lord and his house utterly de
 
 ## House Rules
 
-I really want to amplify want has been good about past campaigns whilst minimising some of the pain points.
+I really want to amplify the things that were fun about past campaigns whilst minimising some of the pain points.
 
 As such I've come up with [these principles](philosophy.md) which will hoepfully implemented by these [house rules](house_rules.md).
 
