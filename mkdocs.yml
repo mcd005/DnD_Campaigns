@@ -44,4 +44,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
-- Home: 'session_0.md'
+- Session 0: 'session_0.md'
