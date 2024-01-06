@@ -12,6 +12,7 @@
 		- Ivanna basically being a Connery-era Bond girl 
 	- The implications of this
 		- Things like *Minor Illusion* can be powerful
+				- Conjuration magic exists in the world so if a goblin sees a bear trap appear in front of it, it won't necessarily know if it's real
 - The story should constantly be moving
 	- There needs to be urgency
 	- I **will** be proactive in moving things along
@@ -26,7 +27,7 @@
 	- I will introduce the power attacks house rule
 - As a DM I will try to give players a way of finding out weaknesses of a creature
 	- They will need to do some research or pick up clues from the environment
-<!-- - I pretty relaxed about rules lawyering
+- I'm pretty relaxed about rules lawyering
 	- I of course will stick by Rule 0 but:
 		- Virtually every rule in this book has been covered discussed somewhere on the internet so there lots of "case law"
-		- Jeremy Crawford is the high judge so if you show me something he's tweeted I will typically take it as law -->
+		- Jeremy Crawford is the high judge so if you show me something he's tweeted I will typically take it as law

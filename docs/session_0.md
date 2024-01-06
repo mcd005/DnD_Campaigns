@@ -16,7 +16,7 @@ One of the Masked Lord of Waterdeep wants the Open Lord and his house utterly de
 
 I really want to amplify the things that were fun about past campaigns whilst minimising some of the pain points.
 
-As such I've come up with [these principles](philosophy.md) which will hoepfully implemented by these [house rules](house_rules.md).
+As such I've come up with [these principles](philosophy.md) which will hopefully implemented by these [house rules](house_rules.md).
 
 These are not yet set in stone and are definitely up for discussion during the session.
 
@@ -63,10 +63,11 @@ Please provide the following (or ask Bard/ChatGPT to do it):
 * Why would your character be willing to go along with a plot to destroy the Open Lord. Or maybe they aren't willing, in which case, why not? Is there something forcing them to go along despite this reason (loved ones held hostage? huge reward that washes away their reluctance?)
 * How is your character related to the the other PCs or NPCs? Maybe they're not? Why not?
 
-##  Questions
+##  Questions/Agenda
 
 * What are your boundaries/red cards? 
 * For those who are a fan of RP: what were the best RP moments for you from Joes campaign or indeed any other campaign you've been a part of?
 * For those who are a fan of combat: what has been a memorable combat encounter? Are there times when combat is less interesting?
 * Are there things you want more of in the campaign e.g. more exploring? more problem-solving (not puzzles lol)? more mystery/intrigue/detective work?
 * Do you think the campaign would be fun if there were more or less railroading?
+* Campaign length?
