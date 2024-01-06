@@ -13,10 +13,9 @@
 1. Flanking is now a +2 bonus to hit when you outnumber the enemy at least 2-to-1 and a +5 for 3-to-1
 	1. All other conditions that would grant Advantage (e.g. paralyzed) are staying the same. Only flanking is being changed to a flat bonus rather than an extra dice roll.
 	1. A creature/PC can't flank when Hidden
-		1. Rationale: when flanked a creature is divide it's defensive efforts among the flankers it is aware of. If the flanked creature doesn't know about a Hidden creature then why would it be trying to defend against it
-1. I will use the BG3 Path of the Bezerker
 1. [Stealth rules](stealth.md). This is all RAW, just distilled into one place, with some inferences being made.
-	1. TL;DR: You must use the Hide action in order to engage in Stealth. The hide action is determined by these rules (from p177 and p192 of the PHB) ![Hide Action Cheat Sheet](imgs/hiding.png)
+	1. TL;DR: You must use the Hide action in order to engage in Stealth. The hide action is determined by these rules (from p177 and p192 of the PHB)
+	![Hide Action Cheat Sheet](imgs/hiding.png)
 	1. Once you are hidden your location is not known. This is true even in combat.
 	1. If your location is not know you have advantage.
 	1. Attacking, excessive noise and other various common sense things that are at the DMs discretion end hiding.
@@ -34,14 +33,15 @@
 	1. An exception to this are the Search (WIS) and Investigation (INT) actions.
 1. TCOE is banned
 1. Cantrip Formulas, Martial Versatility, Eldritch Versatility etc is allowed 
+1. I will use the BG3 Path of the Bezerker
 1. Milestone levelling
 	1. Levelling will be tied to narrative objectives.
 
 ## Rationale
 
-For 1 and 2: Casters are the most "powerful" classes in the game. When you multiclass then they also become the most armoured in the game. This is kind of broken.
+For 1: Casters are the most "powerful" classes in the game. When you multiclass then they also become the most armoured in the game. This is kind of broken.
 
-For 3-5: Martial characters need more scope and more choice.
+For 2-4: Martial characters need more scope and more choice.
 
 # Changelog
 
