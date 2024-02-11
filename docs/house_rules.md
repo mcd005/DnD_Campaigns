@@ -14,8 +14,7 @@
 	1. All other conditions that would grant Advantage (e.g. paralyzed) are staying the same. Only flanking is being changed to a flat bonus rather than an extra dice roll.
 	1. A creature/PC can't flank when Hidden
 1. [Stealth rules](stealth.md). This is all RAW, just distilled into one place, with some inferences being made.
-	1. TL;DR: You must use the Hide action in order to engage in Stealth. The hide action is determined by these rules (from p177 and p192 of the PHB)
-	![Hide Action Cheat Sheet](imgs/hiding.png)
+	1. TL;DR: You must use the Hide action in order to engage in Stealth. The hide action is determined by these rules (from p177 and p192 of the PHB) ![Hide Action Cheat Sheet](imgs/hiding.png)
 	1. Once you are hidden your location is not known. This is true even in combat.
 	1. If your location is not know you have advantage.
 	1. Attacking, excessive noise and other various common sense things that are at the DMs discretion end hiding.
